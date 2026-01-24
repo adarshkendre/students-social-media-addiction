@@ -471,7 +471,7 @@ If you use this dashboard in your research, please cite:
 
 ```bibtex
 @software{social_media_analytics_2024,
-  author = {Your Name},
+  author = {Adarsh Kendre},
   title = {Social Media Usage & Mental Health Analytics Dashboard},
   year = {2024},
   url = {https://github.com/yourusername/social-media-analytics}
