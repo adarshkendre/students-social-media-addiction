@@ -1,4 +1,5 @@
 # 📱 Social Media Usage & Mental Health Analytics Dashboard
+Live Link : https://students-social-media-addiction.streamlit.app/
 
 > An advanced interactive dashboard for analyzing student social media usage patterns, mental health impacts, and academic performance using data science and machine learning.
 
